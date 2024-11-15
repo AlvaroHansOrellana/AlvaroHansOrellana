@@ -5,7 +5,7 @@
 Hi there! I'm Alvaro (Hans) Orellana, a passionate Junior Full Stack Developer and Web Enthusiast 👨‍💻. Currently, I'm on an exciting learning journey at The Bridge Digital Accelerator Bootcamp 🚀, expanding my skills to build innovative web solutions.
 
 🔹 Tech Stack:
-Frontend: HTML, CSS, JavaScript, React, Vue.js
+Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, Express, PostgreSQL, MongoDB
 Dev Tools: Docker, Git, npm, Figma
 
